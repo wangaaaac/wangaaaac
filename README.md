@@ -1,4 +1,8 @@
 ### 石家庄铁道大学2019级软件工程系学生
+姓名：王江伟
+性别：男
+邮箱：2232985989@qq.com
+出生日期：2000/10/25
 
 <!--
 **wangaaaac/wangaaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
