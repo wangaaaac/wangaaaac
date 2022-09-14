@@ -4,16 +4,7 @@
 性别：男
 邮箱：2232985989@qq.com
 出生日期：2000/10/25
-职业技能
-java  9/10
-html  7/10
-css   7/10
-maven 6/10
-php   5/10
-c++   7/10
-c     7/10
-python 7/10
-javascript  6/10
+
 
 <!--
 **wangaaaac/wangaaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
