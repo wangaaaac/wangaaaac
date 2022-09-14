@@ -1,20 +1,5 @@
-### 石家庄铁道大学2019级软件工程系学生
-基本信息
-姓名：王江伟
-性别：男
-邮箱：2232985989@qq.com
-出生日期：2000/10/25
-职业技能
--java  9/10
--html  7/10
--css   7/10
--maven 6/10
--php   5/10
--c++   7/10
--c     7/10
--python 7/10
--javascript  6/10
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+
+<h2> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 基本信息 </h3>
